@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.30.0 (2025-01-11)
+## 2.30.0 (2025-01-22)
 
 * [bitnami/common] Option to add "app.kubernetes.io/component" label ([#31302](https://github.com/bitnami/charts/pull/31302))
 
